@@ -2,3 +2,4 @@
 - git commit -m "Initial commit"
 - git push
 - git remote -v
+- git branch -M main
